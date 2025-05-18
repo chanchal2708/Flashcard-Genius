@@ -78,10 +78,10 @@ DEPLOY LINK
 https://flashcard-genius.vercel.app/
 
 📸 Screenshots
-![Screenshot (109)](https://github.com/user-attachments/assets/2dc70518-21b0-43c3-9718-50499f49e607)
-![Screenshot (110)](https://github.com/user-attachments/assets/3caebeae-1987-4654-ab86-bf8d83cd8dab)
-![Screenshot (111)](https://github.com/user-attachments/assets/43a64647-8a2b-44d9-a118-14c8bb35c7e0)
-![Screenshot (112)](https://github.com/user-attachments/assets/2ecb568d-e869-4c16-a1df-1da4d8634974)
+src/assets/Screenshot (109).png
+src/assets/Screenshot (110).png
+src/assets/Screenshot (111).png
+src/assets/Screenshot (112).png
 
 
 
