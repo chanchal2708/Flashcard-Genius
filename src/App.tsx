@@ -222,8 +222,8 @@ function App() {
               <div className="bg-purple-100 w-12 h-12 rounded-lg flex items-center justify-center mb-4">
                 <Brain className="text-purple-600" size={24} />
               </div>
-              <h3 className="text-xl font-bold text-purple-900 mb-2">Smart Learning</h3>
-              <p className="text-purple-700">Our system understands how you learn and adjusts review timing, so you remember better without feeling overwhelmed.
+              <h3 className="text-xl font-bold text-purple-900 mb-2">Personalized Review</h3>
+              <p className="text-purple-700">Adjusts your flashcard schedule to help you remember better, faster.
 
 </p>
             </div>
@@ -232,16 +232,16 @@ function App() {
               <div className="bg-indigo-100 w-12 h-12 rounded-lg flex items-center justify-center mb-4">
                 <Zap className="text-indigo-600" size={24} />
               </div>
-              <h3 className="text-xl font-bold text-indigo-900 mb-2">Interactive Design</h3>
-              <p className="text-indigo-700">Beautiful animations and eye-tracking features make learning engaging.</p>
+              <h3 className="text-xl font-bold text-indigo-900 mb-2"> Smooth UI</h3>
+              <p className="text-indigo-700">Clean animations and a user-friendly interface enhance your learning focus.</p>
             </div>
             
             <div className="bg-white bg-opacity-70 backdrop-blur-sm p-6 rounded-xl">
               <div className="bg-pink-100 w-12 h-12 rounded-lg flex items-center justify-center mb-4">
                 <Clock className="text-pink-600" size={24} />
               </div>
-              <h3 className="text-xl font-bold text-pink-900 mb-2">Progress Tracking</h3>
-              <p className="text-pink-700">Detailed statistics and insights to monitor your learning journey.</p>
+              <h3 className="text-xl font-bold text-pink-900 mb-2">Know Your Growth</h3>
+              <p className="text-pink-700">Track how much you've improved and where to focus next.</p>
             </div>
           </motion.div>
         )}
